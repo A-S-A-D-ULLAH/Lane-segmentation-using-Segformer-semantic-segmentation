@@ -12,3 +12,10 @@ The application of the SegFormer model yields impressive results, underscoring i
   <img src="accuracy.jpg" align="center" width="400" height="300"> <img src="testing.jpg" align="center" width="400" height="300"> 
 </p>
 
+## Summary
+The SegWeld GitHub project introduces an innovative approach to semantic segmentation for accurately identifying welding regions within X-ray images of battery plates. The project leverages a meticulously curated dataset of 179 self-generated X-ray images, divided into training, testing, and validation subsets. Through the application of the SegFormer semantic segmentation model over 84 epochs, the project achieves remarkable results. The testing phase yields a testing loss of 0.055, a test mean accuracy of 89.94, and a substantial test mean IOU of 82.84, showcasing the model's prowess in precise boundary delineation. Visual representations of testing and training accuracy provide insights into the model's learning trajectory. This endeavor marks a significant advancement in automating the inspection of welding regions, with potential implications for enhancing battery manufacturing quality control processes.
+
+
+
+
+
