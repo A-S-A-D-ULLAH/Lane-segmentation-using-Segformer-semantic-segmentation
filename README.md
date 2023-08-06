@@ -9,8 +9,8 @@ The SegWeld GitHub repository embodies a pioneering effort in semantic segmentat
 ## Results:
 The application of the SegFormer model yields impressive results, underscoring its efficacy in welding region segmentation. The testing phase demonstrates a minimal testing loss of 0.055, indicating the model's ability to accurately predict welding boundaries. Furthermore, our model attains a notable test mean accuracy of 89.94, reflecting its proficiency in correctly classifying welding regions within the X-ray images. The segmentation quality is further substantiated by a substantial test mean IOU score of 82.84, illustrating the model's capacity to accurately delineate complex boundaries. Visual representations of testing and training accuracy provide a clear trajectory of the model's learning process, showcasing the gradual convergence towards optimal performance. These results collectively highlight the potential of the SegFormer semantic segmentation model in revolutionizing the automated inspection and quality control of welding areas in battery plates.
 <p align="center">
-  <img src="/accuracy.png" align="center" width="600" height="450"> 
+  <img src="/accuracy.jpg" align="center" width="600" height="300"> 
 </p>
 <p align="center">
-  <img src="/loss.png" align="center" width="600" height="450"> 
+  <img src="/loss.jpg" align="center" width="600" height="300"> 
 </p>
